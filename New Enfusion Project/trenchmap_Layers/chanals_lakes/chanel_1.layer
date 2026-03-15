@@ -1,0 +1,100 @@
+PolylineShapeEntity {
+ coords 1231.988 5 582.675
+ Points {
+  ShapePoint "{68877362AA4A983E}" {
+   Position 174.572 0 334.5
+  }
+  ShapePoint "{68877362AA4AB094}" {
+   Position -21.509 0 29.134
+  }
+  ShapePoint "{68877362AFB0FAD1}" {
+   Position -240.105 0 -276.552
+  }
+  ShapePoint "{688773610CF8CCAA}" {
+   Position -434.951 0 -572.244
+  }
+  ShapePoint "{688773610C329DAF}" {
+   Position -396.29 0 -576.176
+  }
+  ShapePoint "{68877362AF3D2A2F}" {
+   Position -207.517 0 -307.671
+  }
+  ShapePoint "{68877362B1A62C76}" {
+   Position -0.884 0 -1.134
+  }
+  ShapePoint "{68877360600D6029}" {
+   Position 207.525 0 310.454
+  }
+  ShapePoint "{688773606BF213CD}" {
+   Position 231.734 0 368.148
+  }
+  ShapePoint "{688773606B6F616A}" {
+   Position 247.056 0 420.271
+  }
+  ShapePoint "{688773606AFF373D}" {
+   Position 250.453 0 474.493
+  }
+  ShapePoint "{688773606EFD3293}" {
+   Position 261.72 0 583.411
+  }
+  ShapePoint "{6887736071BDB09F}" {
+   Position 274.61 0 690.444
+  }
+  ShapePoint "{68877360713945B8}" {
+   Position 288.021 0 784.013
+  }
+  ShapePoint "{6887736070CE8349}" {
+   Position 293.025 0 824.769
+  }
+  ShapePoint "{68877360707EA3BE}" {
+   Position 311.57 0 893.262
+  }
+  ShapePoint "{6887736073DC9472}" {
+   Position 330.879 0 927.555
+  }
+  ShapePoint "{6887736072A8B562}" {
+   Position 416.146 0 1059.822
+  }
+  ShapePoint "{68877360750AFDD7}" {
+   Position 631.183 0 1356.374
+  }
+  ShapePoint "{68877360748A28A7}" {
+   Position 598.07 0 1378.745
+  }
+  ShapePoint "{6887736077E07F13}" {
+   Position 494.682 0 1236.158
+  }
+  ShapePoint "{688773607760043E}" {
+   Position 395.112 0 1097.431
+  }
+  ShapePoint "{6887736076236126}" {
+   Position 307.187 0 974.11
+  }
+  ShapePoint "{6887736079D1E686}" {
+   Position 272.892 0 895.955
+  }
+  ShapePoint "{68877360795D6914}" {
+   Position 250.969 0 800.718
+  }
+  ShapePoint "{6887736078AF30B6}" {
+   Position 240.644 0 713.839
+  }
+  ShapePoint "{688773607B631A3D}" {
+   Position 218.341 0 540.618
+  }
+  ShapePoint "{688773607ACFEA77}" {
+   Position 210.308 0 449.502
+  }
+  ShapePoint "{688773607A23C788}" {
+   Position 190.964 0 373.195
+  }
+  ShapePoint "{688773607DB1CA03}" {
+   Position 179.12 0 344.276
+  }
+ }
+ {
+  LakeGeneratorEntity : "{FB8CA78AE56C4A0E}PrefabLibrary/DefaultLibrary/Generators/Water/Lake/LG_Lake_01.et" {
+   coords -0.548 -1.98 -0.318
+  }
+ }
+}

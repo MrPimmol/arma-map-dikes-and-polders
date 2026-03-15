@@ -1,0 +1,4 @@
+SCR_MapEntity SCR_MapEntity1 {
+ "Map Geometry Data" "{ED75880879846482}trenchmap_Layers/SRC_map/trenchmap.topo"
+ "Satellite background image" "{AAD124DC07D36FAA}trenchmap_Layers/TGA_file/trenchmap.edds"
+}

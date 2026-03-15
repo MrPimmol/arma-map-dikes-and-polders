@@ -1,0 +1,59 @@
+$grp GenericWorldPPEffect {
+ SSR {
+  coords 6.512 0 7.31
+  Priority 0
+  Profile 4
+ }
+ SSDO {
+  coords 4.895 0 8.444
+  Priority 14
+  Profile 3
+ }
+ godrays {
+  coords 5.231 0 8.041
+  Priority 1
+  Profile 1
+ }
+ HBAO {
+  coords 4.738 0 7.237
+  Priority 15
+  Profile 0
+ }
+ rain {
+  coords 4.802 0 9.102
+  Profile 7
+ }
+ ppaa {
+  coords 4.623 0 8.367
+  Priority 17
+  Profile 6
+ }
+ hdr {
+  coords 4.276 0 8.543
+  Priority 16
+  Profile 2
+ }
+ underwater {
+  coords 4.355 0 5.385
+  Priority 2
+  Profile 5
+ }
+}
+TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeatherManager.et" {
+ editor EntityEditorProps "{672F7A98668A7E19}" {
+ }
+ coords 17.304 0 22.148
+ WeatherStateMachine "{145430BBF1620448}Terrains/Common/WeatherPresets/StateMachine/WeatherStates.conf"
+ "Initial Day Time" 10.025
+ Year 2032
+ "Month of the Year" 6
+ "Day of the Month" 1
+ Latitude 0.37
+ Longitude -2.222
+ "Internal variant transition" 0
+ "Internal subvariant 0" 0
+ "Internal subvariant 1" 0
+}
+EnvironmentProbeEntity {
+ coords 14154.219 0 10580.535
+}

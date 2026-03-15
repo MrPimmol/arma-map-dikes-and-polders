@@ -1,0 +1,326 @@
+SCR_DestructibleBuildingEntity : "{0E7899885A92BF4F}PrefabLibrary/DefaultLibrary/Structures/Houses/FarmHouse_E_1L01/FarmHouse_E_1L01.et" {
+ coords 8601.467 0.586 8770.783
+ angles 0 -125 0
+}
+SCR_DestructibleBuildingEntity : "{0EE7AF83D1711461}PrefabLibrary/DefaultLibrary/Structures/Agriculture/WaterTower_01.et" {
+ coords 8141.243 0.001 9056.396
+ angles 0 -22 0
+}
+$grp SCR_DestructibleBuildingEntity : "{1B2A41B36AC9768F}PrefabLibrary/DefaultLibrary/Structures/Agriculture/SilageStorage_E_02.et" {
+ {
+  coords 8668.481 0.002 8746.239
+  angles 0 -107 0
+ }
+ {
+  coords 8141.233 0.001 8935.346
+  angles 0 66 0
+ }
+ {
+  coords 8131.854 0.001 8956.413
+  angles 0 66 0
+ }
+ {
+  coords 8122.357 0.001 8977.742
+  angles 0 66 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{3089817CF5E28BD5}PrefabLibrary/DefaultLibrary/Structures/Agriculture/Silo_01.et" {
+ {
+  coords 8621.475 0.398 8713.046
+  angles 0 52 0
+ }
+ {
+  coords 8132.941 0.002 9032.301
+  angles 0 -114 0
+ }
+ {
+  coords 8146.762 0.003 9002.285
+  angles 0 -114 0
+ }
+ {
+  coords 8161.428 0.003 8970.664
+  angles 0 -114 0
+ }
+ {
+  coords 8175.115 0.003 8940.966
+  angles 0 -114 0
+ }
+ {
+  coords 8183.955 0.005 9072.935
+  angles 0 152 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{3951BF8EC29C556D}PrefabLibrary/DefaultLibrary/Structures/Agriculture/CowShed_E_01_short.et" {
+ {
+  coords 8594.676 0.257 8703.456
+  angles 0 52 0
+ }
+ {
+  coords 8177.788 0.53 9095.17
+  angles 0 -23.5 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{61A14BF11154E540}PrefabLibrary/DefaultLibrary/Structures/Agriculture/Hayloft_E_01/Hayloft_E_01_wood.et" {
+ {
+  coords 8566.252 0.431 8722.363
+  angles 0 -125 0
+ }
+ {
+  coords 8125.361 0.53 9091.431
+  angles 0 -114 0
+ }
+ {
+  coords 8160.176 0.194 9069.078
+  angles 0 -25 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{6CB44129D5988BD2}PrefabLibrary/DefaultLibrary/Structures/Agriculture/CowShed_E_01.et" {
+ {
+  coords 8218.979 0.531 8957.797
+  angles 0 65 0
+ }
+ {
+  coords 8205.356 0.53 8987.332
+  angles 0 65 0
+ }
+ {
+  coords 8177.163 0.53 9048.335
+  angles 0 65 0
+ }
+ {
+  coords 8190.731 0.531 9018.838
+  angles 0 65 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{777E7553D60DF9A2}PrefabLibrary/DefaultLibrary/Structures/Agriculture/SilageStorage_E_01.et" {
+ coords 8635.396 0.001 8730.532
+ angles 0 -41 0
+ {
+  StaticModelEntity {
+   ID "56A8B699728E870A"
+   coords 4.498 -0.003 -10.071
+  }
+  StaticModelEntity {
+   ID "56A8B699728E871D"
+   coords 4.501 -0.001 14.788
+  }
+  StaticModelEntity {
+   ID "56A8B699728E8756"
+   coords -5.503 -0.003 -10.066
+  }
+  StaticModelEntity {
+   ID "56A8B699728E8040"
+   coords 4.499 -0.003 -5.099
+  }
+  StaticModelEntity {
+   ID "56A8B699728E8724"
+   coords 4.498 -0.003 -10.074
+  }
+  StaticModelEntity {
+   ID "56A8B699728E878F"
+   coords -5.51 -0.003 -10.067
+  }
+  StaticModelEntity {
+   ID "56A8B699728E8796"
+   coords 4.5 -0.003 9.828
+  }
+  StaticModelEntity {
+   ID "56A8B699728E879A"
+   coords -0.535 -0.003 -10.068
+  }
+  StaticModelEntity {
+   ID "56A8B699728E87A5"
+   coords 4.499 -0.003 -0.124
+  }
+  StaticModelEntity {
+   ID "56A8B699728E87B0"
+   coords 4.5 -0.003 4.852
+  }
+  StaticModelEntity {
+   ID "56A8B699728E87CB"
+   coords -5.51 -0.003 -0.063
+  }
+  StaticModelEntity {
+   ID "56A8B699728E87D7"
+   coords -5.51 -0.003 14.851
+  }
+  StaticModelEntity {
+   ID "56A8B699728E87DA"
+   coords -5.509 -0.003 -5.038
+  }
+  StaticModelEntity {
+   ID "56A8B699728E87E1"
+   coords -5.508 -0.003 9.886
+  }
+  StaticModelEntity {
+   ID "56A8B699728E87FC"
+   coords -5.509 -0.003 4.913
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{844E20E491FBC531}PrefabLibrary/DefaultLibrary/Structures/Agriculture/Barn_E_02.et" {
+ coords 8615.584 0.286 8759.885
+ angles 0 54 0
+}
+SCR_DestructibleBuildingEntity : "{93147981639AC149}PrefabLibrary/DefaultLibrary/Structures/Agriculture/Barn_E_03/Barn_E_03_closed.et" {
+ coords 8626.019 0.337 8723.622
+ angles 0 -130 0
+ {
+  GameEnvironmentProbeEntity {
+   ID "5EE876D8FB99E33E"
+   coords 0 2.322 0
+  }
+  GenericEntity {
+   ID "556871C89E2E0644"
+   coords 0 0 0
+  }
+  GenericEntity {
+   ID "556871C89E2E05A9"
+   coords 0 0 0
+  }
+  GenericEntity {
+   ID "5B18A597598B9A27"
+   coords 0 0 0
+   {
+    GenericEntity {
+     ID "5B18A2BA7D241344"
+     coords 0.786 0.105 -2.406
+    }
+    GenericEntity {
+     ID "5B18A2BA7D241356"
+     coords -5.727 0.105 -0.1
+    }
+    GenericEntity {
+     ID "5B18A2BA7D2415E8"
+     coords -7.554 0.105 -0.367
+    }
+    GenericEntity {
+     ID "5B18A2BA7D241415"
+     coords -3.957 0.105 0.355
+    }
+    GenericEntity {
+     ID "5B18A2BA7D241460"
+     coords -0.347 0.105 -2.332
+    }
+    GenericEntity {
+     ID "5B18A2BA7D241472"
+     coords -0.347 0.105 -2.725
+    }
+    GenericEntity {
+     ID "5B18A2BA7D24147F"
+     coords -0.032 0.105 -2.551
+    }
+    GenericEntity {
+     ID "5B18A2BA7D24144E"
+     coords 7.165 0.48 -0.639
+    }
+    GenericEntity {
+     ID "5B18A2BA7D24145D"
+     coords 7.165 0.105 -0.639
+    }
+    GenericEntity {
+     ID "5B18A2BA7D2414A9"
+     coords 7.165 0.849 -0.639
+    }
+    GenericEntity {
+     ID "5B18A2BA7D2414B5"
+     coords 7.156 0.105 0.705
+    }
+    GenericEntity {
+     ID "5B18A2BA7D24148A"
+     coords 0.922 0.105 2.587
+    }
+    GenericEntity {
+     ID "616AED33931B993F"
+     coords -6.405 0.105 -1.639
+     {
+      GenericEntity {
+       ID "616AED33931B993E"
+       coords 0.054 1.109 -0.04
+      }
+     }
+    }
+    GenericEntity {
+     ID "616AED33EA8F1742"
+     coords -5.131 0.105 -1.679
+     {
+      GenericEntity {
+       ID "616AED33EA8F1741"
+       coords 0 1.109 0.001
+      }
+     }
+    }
+    GenericEntity {
+     ID "5B18A2BA7D24149E"
+     coords 0.353 0.171 2.052
+    }
+    GenericEntity {
+     ID "5B18A2BA7D2414C6"
+     coords -7.42 0.328 2.159
+    }
+    GenericEntity {
+     ID "5B18A2BA7D2414F4"
+     coords -7.42 0.105 2.159
+    }
+    GenericEntity {
+     ID "5B18A2BA7D2414D0"
+     coords -1.292 0.105 -2.486
+    }
+    GenericEntity {
+     ID "5B18A2BA7D241322"
+     coords 7.287 0.105 -1.514
+    }
+    GenericEntity {
+     ID "5B18A2BA7D241332"
+     coords -7.833 0.105 1.576
+    }
+    GenericEntity {
+     ID "5B18A2BA7D24130E"
+     coords -7.439 0.105 -1.99
+    }
+    GenericEntity {
+     ID "5B18A2BA7D24131A"
+     coords -4.565 0.105 -1.43
+    }
+    GenericEntity {
+     ID "5B18A2BA7D24136F"
+     coords -3.075 3.918 -2.623
+    }
+    GenericEntity {
+     ID "5B18A2BA7D24137B"
+     coords -2.831 1.59 2.375
+    }
+   }
+  }
+  GenericEntity {
+   ID "556871C89E2E0599"
+   coords 0 0 0
+  }
+  GenericEntity {
+   ID "64B6838B949CC638"
+   coords 0 0 0
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{9ACCDC76D1EBDA27}PrefabLibrary/DefaultLibrary/Structures/Houses/FarmHouse_E_1L01/FarmHouse_E_1L01_Wood.et" {
+ coords 8153.081 0.148 9148.492
+ angles 0 -113 0
+}
+SCR_DestructibleBuildingEntity : "{A9BD0F3A7B7CFF9A}Prefabs/Structures/Cultural/Churches/Church_01/Church_01_blue.et" {
+ coords 9385.995 6.338 9623.182
+ angles 0 37 0
+}
+$grp SCR_DestructibleBuildingEntity : "{BC72C74ABB5732A8}PrefabLibrary/DefaultLibrary/Structures/Agriculture/Barn_E_01/Barn_E_01_white.et" {
+ {
+  coords 8575.955 0.427 8755.24
+  angles 0 -35 0
+ }
+ {
+  coords 8563.668 0.427 8746.637
+  angles 0 -35 0
+ }
+ {
+  coords 8130.779 0.397 9068.017
+  angles 0 -113.5 0
+ }
+}
